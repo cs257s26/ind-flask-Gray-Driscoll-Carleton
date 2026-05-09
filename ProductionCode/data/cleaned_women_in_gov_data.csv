@@ -1,9 +1,9 @@
-Entity,Code,Year,Proportion of elected seats held by women in deliberative bodies of local government (%),World region according to OWID
+entity,code,year,women_gov_percentage,region
 Afghanistan,AFG,2020,16.53,Asia
 Algeria,DZA,2018,17.59,Africa
 Andorra,AND,2016,35.8,Europe
 Andorra,AND,2020,41.25,Europe
-Andorra,AND,2024,45,Europe
+Andorra,AND,2024,45.0,Europe
 Antigua and Barbuda,ATG,2020,66.67,North America
 Antigua and Barbuda,ATG,2022,66.67,North America
 Antigua and Barbuda,ATG,2024,44.44,North America
@@ -24,13 +24,13 @@ Austria,AUT,2021,24.55,Europe
 Austria,AUT,2022,25.7,Europe
 Austria,AUT,2023,26.31,Europe
 Austria,AUT,2024,25.86,Europe
-Azerbaijan,AZE,2015,35,Asia
+Azerbaijan,AZE,2015,35.0,Asia
 Azerbaijan,AZE,2020,38.8,Asia
 Azerbaijan,AZE,2021,38.8,Asia
 Azerbaijan,AZE,2022,38.8,Asia
 Azerbaijan,AZE,2023,38.8,Asia
 Bahrain,BHR,2019,13.33,Asia
-Bahrain,BHR,2023,10,Asia
+Bahrain,BHR,2023,10.0,Asia
 Bangladesh,BGD,2019,25.21,Asia
 Bangladesh,BGD,2021,23.34,Asia
 Bangladesh,BGD,2022,23.4,Asia
@@ -100,7 +100,7 @@ Czechia,CZE,2019,27.92,Europe
 Czechia,CZE,2020,28.01,Europe
 Czechia,CZE,2021,28.01,Europe
 Czechia,CZE,2022,28.01,Europe
-Czechia,CZE,2023,29,Europe
+Czechia,CZE,2023,29.0,Europe
 Denmark,DNK,2014,30.5,Europe
 Denmark,DNK,2018,33.33,Europe
 Denmark,DNK,2022,36.99,Europe
@@ -113,7 +113,7 @@ Eastern and South-Eastern Asia (UN SDG),,2020,27.34,
 Eastern and South-Eastern Asia (UN SDG),,2021,27.42,
 Eastern and South-Eastern Asia (UN SDG),,2022,27.81,
 Eastern and South-Eastern Asia (UN SDG),,2023,30.94,
-Eastern and South-Eastern Asia (UN SDG),,2024,31,
+Eastern and South-Eastern Asia (UN SDG),,2024,31.0,
 Ecuador,ECU,2015,25.66,South America
 Ecuador,ECU,2020,27.17,South America
 Ecuador,ECU,2024,41.13,South America
@@ -254,7 +254,7 @@ Malawi,MWI,2015,12.33,Africa
 Malawi,MWI,2020,14.57,Africa
 Malaysia,MYS,2022,18.6,Asia
 Maldives,MDV,2018,6.13,Asia
-Maldives,MDV,2020,6,Asia
+Maldives,MDV,2020,6.0,Asia
 Maldives,MDV,2022,39.51,Asia
 Mali,MLI,2018,25.25,Africa
 Malta,MLT,2016,22.59,Europe
@@ -309,7 +309,7 @@ Northern Africa and Western Asia (UN SDG),,2021,17.94,
 Northern Africa and Western Asia (UN SDG),,2022,19.75,
 Northern Africa and Western Asia (UN SDG),,2023,19.57,
 Northern Africa and Western Asia (UN SDG),,2024,19.59,
-Northern Mariana Islands,MNP,2019,40,Oceania
+Northern Mariana Islands,MNP,2019,40.0,Oceania
 Norway,NOR,2016,39.36,Europe
 Norway,NOR,2020,40.84,Europe
 Norway,NOR,2024,40.96,Europe
@@ -321,7 +321,7 @@ Oceania (UN SDG),,2024,22.99,
 Oceania (UN),,2020,31.62,
 Oceania (UN),,2021,31.24,
 Oceania (UN),,2022,31.24,
-Oceania (UN),,2023,31,
+Oceania (UN),,2023,31.0,
 Oceania (UN),,2024,31.05,
 Oman,OMN,2017,3.47,Asia
 Oman,OMN,2023,0.79,Asia
@@ -352,7 +352,7 @@ Poland,POL,2016,26.62,Europe
 Poland,POL,2017,26.82,Europe
 Poland,POL,2018,26.93,Europe
 Poland,POL,2019,29.8,Europe
-Poland,POL,2020,30,Europe
+Poland,POL,2020,30.0,Europe
 Poland,POL,2021,30.18,Europe
 Poland,POL,2022,30.38,Europe
 Romania,ROU,2017,12.51,Europe
@@ -407,7 +407,7 @@ Sweden,SWE,2023,44.02,Europe
 Switzerland,CHE,2018,31.3,Europe
 Switzerland,CHE,2019,31.93,Europe
 Switzerland,CHE,2020,32.04,Europe
-Switzerland,CHE,2021,35,Europe
+Switzerland,CHE,2021,35.0,Europe
 Switzerland,CHE,2022,38.59,Europe
 Switzerland,CHE,2023,39.04,Europe
 Syria,SYR,2019,7.09,Asia

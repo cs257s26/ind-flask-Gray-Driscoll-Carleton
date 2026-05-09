@@ -7,8 +7,8 @@ datasets = {
     "women": []
 }
 
-FILENAME_LITERACY = "ProductionCode/data/literacy-rates-vs-average-years-of-schooling.csv"
-FILENAME_WOMEN = "ProductionCode/data/share-of-women-in-local-government.csv"
+FILENAME_LITERACY = "ProductionCode/data/cleaned_education_data.csv"
+FILENAME_WOMEN = "ProductionCode/data/cleaned_women_in_gov_data.csv"
 
 def load_data():
     with open(FILENAME_LITERACY, newline='') as f:
