@@ -15,7 +15,7 @@ CREATE TABLE education_data (
 --Women in gov table
 DROP TABLE IF EXISTS women_in_gov_data;
 
-CREATE TABLE women_gov_data (
+CREATE TABLE women_in_gov_data (
     entity TEXT,
     code TEXT,
     year INTEGER,
