@@ -3,7 +3,7 @@ DROP TABLE IF EXISTS education_data;
 
 CREATE TABLE education_data (
     entity TEXT,
-    code CHAR(3),
+    code TEXT,
     year INTEGER,
     literacy_rate NUMERIC,
     avg_years_education NUMERIC,
@@ -17,7 +17,7 @@ DROP TABLE IF EXISTS women_in_gov_data;
 
 CREATE TABLE women_gov_data (
     entity TEXT,
-    code CHAR(3),
+    code TEXT,
     year INTEGER,
     women_gov_percentage NUMERIC,
     region TEXT
