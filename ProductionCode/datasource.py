@@ -21,7 +21,7 @@ def lit_over_time_country(connection, start_year, end_year, country):
                     entity,
                     AVG(literacy_rate)
                     FROM education_data
-                    WHERE (year = %s OR year = %s) AND country = %s
+                    WHERE (year = %s OR year = %s) AND entity = %s
                     GROUP BY year;
                     """
             cursor.execute(query, (start_year, end_year, country))
